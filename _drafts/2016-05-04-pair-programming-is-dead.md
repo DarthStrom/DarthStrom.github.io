@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Extrospective: Pair Programming is Dead, Long Live Pair Programming"
-date:   2016-05-05 23:00:00 -0400
-categories: soft-skills craftsmanship
+date: 2016-05-04 23:59:59
 ---
 
+Coming soon.
