@@ -10,8 +10,8 @@ title: Blog
 email: jasonsduffy@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   This blog will explore various aspects of software creation
-# baseurl: "/blog" # the subpath of your site, e.g. /blog
-# url: "http://darthstrom.com" # the base hostname & protocol for your site
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "http://holocron.darthstrom.com" # the base hostname & protocol for your site
 twitter_username: DarthStrom
 github_username:  DarthStrom
 
