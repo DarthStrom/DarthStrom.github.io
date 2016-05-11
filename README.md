@@ -1,3 +1,4 @@
-# Blog
+# Holocron
 
-This is the blog for [holocron.darthstrom.com](http://holocron.darthstrom.com/blog)
+This is the blog at [holocron.darthstrom.com](http://holocron.darthstrom.com/)
+
