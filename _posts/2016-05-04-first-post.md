@@ -12,8 +12,8 @@ This blog uses Jekyll which offers powerful support for code snippets:
 func printHi(name: String) {
     print("Hi, \(name)")
 }
-printHi('Tom')
-//=> prints 'Hi, Tom'
+printHi("Tom")
+//=> prints "Hi, Tom"
 {% endhighlight %}
 
 Check out [my website][my-website] for more info on me.

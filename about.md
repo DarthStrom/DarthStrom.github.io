@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+The dark side of the Force is a pathway to many abilities some consider to be unnatural.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Nwûl tash.  
+Dzwol shâsotkun.  
+Shâsotjontû châtsatul nu tyûk.  
+Tyûkjontû châtsatul nu midwan.  
+Midwanjontû châtsatul nu asha.  
+Ashajontû kotswinot itsu nuyak.  
+Wonoksh Qyâsik nun.
