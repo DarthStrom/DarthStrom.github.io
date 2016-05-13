@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Extrospective: To Pair or Not To Pair"
+comments: true
 ---
 
 Intro(spective)
