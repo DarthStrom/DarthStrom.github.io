@@ -8,11 +8,11 @@ Intro(spective)
 ---------------
 I know I called this an extrospective, but first allow me to introspect a bit.
 
-I have been programming professionally for 8 years, but have only really started trying to improve my craftsmanship for the past 3 or so.  As part of that journey I switched from a government job to consulting.  My current company has a culture that values many Extreme Programming engineering practices including pair programming.
+I have been programming professionally for 8 years, but have only really started trying to improve my craftsmanship for the past 3 or so.  As part of that journey, I switched from a government job to consulting.  My current company has a culture that values many Extreme Programming engineering practices including pair programming.
 
-I came into the job with an open mind and the realization that pair programming would take time and effort to become comfortable with.  After 2 years of pair programming full time, I am still not comfortable.  In fact, it's possible I will never be comfortable with it.  As an introvert, 40 hours a week of social interaction can be draining [^1].  Another contributing factor to my discomfort is imposter syndrome.  One of the things I used to be able to use to combat imposter syndrome was looking back at value I had produced - this becomes more difficult if you are always working with people.  If you have imposter syndrome your mind has a way of telling you that the work could have been done without you.
+I came into the job with an open mind and the realization that pair programming would take time and effort to become comfortable with.  After 2 years of pair programming full time, I am still not comfortable.  In fact, it's possible I will never be comfortable with it.  As an introvert, 40 hours a week of social interaction can be draining [^1].  Another contributing factor to my discomfort is imposter syndrome.  One of the things I used to be able to use to combat imposter syndrome was looking back at value I had produced - this becomes more difficult if you are always working with people.  If you have imposter syndrome, your mind has a way of telling you that the work could have been done without you.
 
-Obviously there are many merits to pair programming that make it worth overcoming these hurdles.  And I much prefer the environment of "always pair" to the environment of "never pair", but I would like to take the rest of this post to explore the idea of a middle way.  There must be situations where it is better to pair and other situations where it is not.
+Obviously, there are many merits to pair programming that make it worth overcoming these hurdles.  And I much prefer the environment of "always pair" to the environment of "never pair", but I would like to take the rest of this post to explore the idea of a middle way.  There must be situations where it is better to pair and other situations where it is not.
 
 Some Benefits
 -------------
