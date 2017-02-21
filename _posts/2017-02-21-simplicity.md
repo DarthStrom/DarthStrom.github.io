@@ -446,3 +446,4 @@ Much easier.
 * [Swift and the Legacy of Functional Programming](https://realm.io/news/tryswift-rob-napier-swift-legacy-functional-programming/)
 * [Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy)
 * [Simplicity Matters](https://youtu.be/rI8tNMsozo0)
+* [99 Bottles of OOP](https://www.sandimetz.com/99bottles/)
