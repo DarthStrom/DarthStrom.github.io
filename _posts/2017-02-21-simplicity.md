@@ -217,7 +217,7 @@ class SoftwareApprentice {
 }
 ```
 
-Now suddenly we find that Software Apprentices have a pay rate of $9 per hour so we are tempted to change the Employee class to accomodate for this.
+Now suddenly we find that Software Apprentices have a pay rate of $9 per hour so we are tempted to change the Employee class to accommodate for this.
 
 ```swift
 class Employee {
