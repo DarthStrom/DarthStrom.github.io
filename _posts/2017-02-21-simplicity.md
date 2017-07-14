@@ -32,7 +32,7 @@ for person in people {
 ```
 Pretty simple right? WRONG
 
-We have to menally keep track of this process and the state of `loopReport` as it progresses.  We'll revisit this later, but for now let's ponder the wisdom of the sages.
+We have to mentally keep track of this process and the state of `loopReport` as it progresses.  We'll revisit this later, but for now let's ponder the wisdom of the sages.
 
 > We need to define the problem instead of the procedures.
 > -Grace Hopper
