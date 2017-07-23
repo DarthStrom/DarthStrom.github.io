@@ -1,4 +1,0 @@
-- Getting EXC_BAD_ACCESS?
-- Turn on zombies for debugging
-- zombies on means that instead of freeing memory, objects stick around so that when you mistakenly call one you can tell what it was
-- example code
