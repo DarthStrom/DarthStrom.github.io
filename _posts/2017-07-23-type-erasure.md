@@ -151,7 +151,7 @@ Ok, you got me.  The pattern above was hard to understand but is pretty robust. 
 
 ```swift
 struct AnyForceWielder<Ability>: ForceWielder {
-    private let attack: () -> Ability
+    private let _attack: () -> Ability
 
     init<Concrete: ForceWielder>(_ concrete: Concrete)
         where Concrete.Ability == Ability {
@@ -159,7 +159,7 @@ struct AnyForceWielder<Ability>: ForceWielder {
     }
 
     func attack() -> Ability {
-        return attack()
+        return _attack()
     }
 }
 ```
